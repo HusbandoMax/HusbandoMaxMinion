@@ -1,0 +1,28 @@
+
+[
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "type": "rich",
+      "title": `Test 1`,
+      "description": `asdasfasdfasdfasdfasdfasdfasdfasdf`,
+      "color": 0xffffff
+    }
+  ]
+},
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "type": "rich",
+      "title": `Test 2`,
+      "description": `asdasfasdfasdfasdfasdfasdfasdfasdf2`,
+      "color": 0xffffff
+    }
+  ]
+}
+]
+
