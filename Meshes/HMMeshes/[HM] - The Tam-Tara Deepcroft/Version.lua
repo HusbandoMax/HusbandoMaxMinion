@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - The Tam-Tara Deepcroft",
 	Notes = "Release",
-	Time = 1672208755,
-	Version = 2,
+	Time = 1672237912,
+	Version = 3,
 }
 
 

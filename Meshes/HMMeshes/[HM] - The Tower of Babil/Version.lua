@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - The Tower of Babil",
 	Notes = "Release",
-	Time = 1672208764,
-	Version = 2,
+	Time = 1672237983,
+	Version = 3,
 }
 
 

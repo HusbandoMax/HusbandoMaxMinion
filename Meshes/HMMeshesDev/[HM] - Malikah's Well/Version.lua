@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - Malikah's Well",
 	Notes = "Release",
-	Time = 1672208654,
-	Version = 2,
+	Time = 1672237964,
+	Version = 3,
 }
 
 

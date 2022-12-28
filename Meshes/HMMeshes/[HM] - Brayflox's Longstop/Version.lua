@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - Brayflox's Longstop",
 	Notes = "Release",
-	Time = 1672208733,
-	Version = 2,
+	Time = 1672237652,
+	Version = 3,
 }
 
 

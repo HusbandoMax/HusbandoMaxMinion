@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - Alzadaal's Legacy",
 	Notes = "Release",
-	Time = 1672208781,
-	Version = 2,
+	Time = 1672238042,
+	Version = 3,
 }
 
 

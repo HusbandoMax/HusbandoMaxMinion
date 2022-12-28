@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - Holminster Switch",
 	Notes = "Release",
-	Time = 1672208758,
-	Version = 2,
+	Time = 1672237966,
+	Version = 3,
 }
 
 

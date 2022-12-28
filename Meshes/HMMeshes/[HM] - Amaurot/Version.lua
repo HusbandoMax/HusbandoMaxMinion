@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - Amaurot",
 	Notes = "Release",
-	Time = 1672208664,
-	Version = 2,
+	Time = 1672237968,
+	Version = 3,
 }
 
 

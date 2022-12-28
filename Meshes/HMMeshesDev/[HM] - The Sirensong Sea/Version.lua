@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - The Sirensong Sea",
 	Notes = "Release",
-	Time = 1672208741,
-	Version = 2,
+	Time = 1672237956,
+	Version = 3,
 }
 
 

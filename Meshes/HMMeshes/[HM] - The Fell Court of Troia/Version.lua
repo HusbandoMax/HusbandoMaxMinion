@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - The Fell Court of Troia",
 	Notes = "Release",
-	Time = 1672208727,
-	Version = 2,
+	Time = 1672238053,
+	Version = 3,
 }
 
 

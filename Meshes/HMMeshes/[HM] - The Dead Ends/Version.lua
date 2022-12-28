@@ -2,8 +2,8 @@ local tbl =
 {
 	Name = "[HM] - The Dead Ends",
 	Notes = "Release",
-	Time = 1672208768,
-	Version = 2,
+	Time = 1672237989,
+	Version = 3,
 }
 
 
