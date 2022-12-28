@@ -1,8 +1,8 @@
 local tbl = 
 {
 	Name = "[HM] - The Sil'dihn Subterrane",
-	Notes = "Inital",
-	Time = 0,
+	Notes = "Release",
+	Time = 1672206921,
 	Version = 1,
 }
 
