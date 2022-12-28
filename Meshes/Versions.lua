@@ -313,7 +313,7 @@ local tbl =
 		Name = "[HM] - Sohm Al",
 		Notes = "Inital",
 		Time = 1672207951,
-		Version = 1,
+		Version = 2,
 	},
 	[1066] = 
 	{
