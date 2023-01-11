@@ -336,6 +336,13 @@ local tbl =
 		Time = 1672238053,
 		Version = 3,
 	},
+	[1097] = 
+	{
+		Name = "[HM] - Lapis Manalis",
+		Notes = "Inital",
+		Time = 1673393791,
+		Version = 1,
+	},
 }
 
 
