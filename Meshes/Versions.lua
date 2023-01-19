@@ -343,6 +343,55 @@ local tbl =
 		Time = 1673445700,
 		Version = 2,
 	},
+	[1109] = 
+	{
+		Name = "[HM] - The Great Gubal Library",
+		Notes = "Release",
+		Time = 1673838894,
+		Version = 3,
+	},
+	[1110] = 
+	{
+		Name = "[HM] - Aetherochemical Research Facility",
+		Notes = "Release",
+		Time = 1673838890,
+		Version = 3,
+	},
+	[1111] = 
+	{
+		Name = "[HM] - The Antitower",
+		Notes = "Release",
+		Time = 1673838785,
+		Version = 2,
+	},
+	[1112] = 
+	{
+		Name = "[HM] - Sohr Khai",
+		Notes = "Release",
+		Time = 1673838888,
+		Version = 3,
+	},
+	[1113] = 
+	{
+		Name = "[HM] - Xelphatol",
+		Notes = "Release",
+		Time = 1674092415,
+		Version = 2,
+	},
+	[1114] = 
+	{
+		Name = "[HM] - Baelsar's Wall",
+		Notes = "Release",
+		Time = 1674097817,
+		Version = 2,
+	},
+	[1123] = 
+	{
+		Name = "[HM] - The Shifting Gymnasion Agonon",
+		Notes = "Release",
+		Time = 1673703183,
+		Version = 2,
+	},
 }
 
 
