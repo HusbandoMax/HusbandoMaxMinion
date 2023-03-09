@@ -105,6 +105,13 @@ local tbl =
 		Time = 1672237956,
 		Version = 3,
 	},
+	[788] = 
+	{
+		Name = "[HM] - Saint Mocianne's Arboretum",
+		Notes = "Release",
+		Time = 1677887939,
+		Version = 2,
+	},
 	[821] = 
 	{
 		Name = "[HM] - Dohn Mheg",
