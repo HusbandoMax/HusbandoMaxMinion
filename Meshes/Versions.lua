@@ -311,9 +311,9 @@ local tbl =
 	[1055] = 
 	{
 		Name = "[HM] - Unnamed Island",
-		Notes = "Correct Mesh Update",
-		Time = 1673458643,
-		Version = 5,
+		Notes = "6.4 Updates",
+		Time = 1685100234,
+		Version = 6,
 	},
 	[1064] = 
 	{
@@ -398,6 +398,13 @@ local tbl =
 		Notes = "Release",
 		Time = 1673703183,
 		Version = 2,
+	},
+	[1124] = 
+	{
+		Name = "[HM] - Eureka Orthos",
+		Notes = "Release",
+		Time = 1685100191,
+		Version = 3,
 	},
 }
 
