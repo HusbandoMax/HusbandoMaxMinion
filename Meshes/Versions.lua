@@ -91,13 +91,6 @@ local tbl =
 		Time = 1672237952,
 		Version = 3,
 	},
-	[554] = 
-	{
-		Name = "[HM] - The Fields of Glory v2",
-		Notes = "Inital",
-		Time = 1685912182,
-		Version = 1,
-	},
 	[616] = 
 	{
 		Name = "[HM] - Shisui of the Violet Tides",
