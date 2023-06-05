@@ -91,6 +91,13 @@ local tbl =
 		Time = 1672237952,
 		Version = 3,
 	},
+	[554] = 
+	{
+		Name = "[HM] - The Fields of Glory v2",
+		Notes = "Inital",
+		Time = 1685912182,
+		Version = 1,
+	},
 	[616] = 
 	{
 		Name = "[HM] - Shisui of the Violet Tides",
@@ -411,6 +418,41 @@ local tbl =
 		Name = "[HM] - The Aetherfont",
 		Notes = "Release",
 		Time = 1685390968,
+		Version = 2,
+	},
+	[1142] = 
+	{
+		Name = "[HM] - The Sirensong Sea",
+		Notes = "Inital",
+		Time = 1685395508,
+		Version = 3,
+	},
+	[1143] = 
+	{
+		Name = "[HM] - Bardam's Mettle",
+		Notes = "Release",
+		Time = 1685738587,
+		Version = 2,
+	},
+	[1144] = 
+	{
+		Name = "[HM] - Doma Castle",
+		Notes = "Release",
+		Time = 1685755726,
+		Version = 2,
+	},
+	[1145] = 
+	{
+		Name = "[HM] - Castrum Abania",
+		Notes = "Release",
+		Time = 1685765358,
+		Version = 2,
+	},
+	[1146] = 
+	{
+		Name = "[HM] - Ala Mhigo",
+		Notes = "Release",
+		Time = 1685780979,
 		Version = 2,
 	},
 }
