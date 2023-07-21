@@ -420,6 +420,13 @@ local tbl =
 		Time = 1685390968,
 		Version = 2,
 	},
+	[1137] = 
+	{
+		Name = "[HM] - Mount Rokkon",
+		Notes = "Left Path Only",
+		Time = 1689933640,
+		Version = 2,
+	},
 	[1142] = 
 	{
 		Name = "[HM] - The Sirensong Sea",
