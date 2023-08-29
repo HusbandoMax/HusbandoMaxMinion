@@ -98,6 +98,13 @@ local tbl =
 		Time = 1672237952,
 		Version = 3,
 	},
+	[613] = 
+	{
+		Name = "[HM] - The Ruby Sea",
+		Notes = "Inital",
+		Time = 1691360216,
+		Version = 1,
+	},
 	[616] = 
 	{
 		Name = "[HM] - Shisui of the Violet Tides",
@@ -188,6 +195,13 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237979,
 		Version = 3,
+	},
+	[950] = 
+	{
+		Name = "[HM] - G-Savior Deck",
+		Notes = "Release",
+		Time = 1690639655,
+		Version = 2,
 	},
 	[952] = 
 	{
@@ -318,9 +332,9 @@ local tbl =
 	[1055] = 
 	{
 		Name = "[HM] - Unnamed Island",
-		Notes = "Rebuild",
-		Time = 1689518763,
-		Version = 9,
+		Notes = "Reworks",
+		Time = 1693269240,
+		Version = 10,
 	},
 	[1064] = 
 	{
@@ -461,6 +475,13 @@ local tbl =
 		Notes = "Release",
 		Time = 1685780979,
 		Version = 2,
+	},
+	[1155] = 
+	{
+		Name = "[HM] - Another Mount Rokkon",
+		Notes = "Inital",
+		Time = 1690551147,
+		Version = 1,
 	},
 }
 
