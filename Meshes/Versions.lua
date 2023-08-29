@@ -101,9 +101,9 @@ local tbl =
 	[613] = 
 	{
 		Name = "[HM] - The Ruby Sea",
-		Notes = "Inital",
-		Time = 1691360216,
-		Version = 1,
+		Notes = "Release",
+		Time = 1693284848,
+		Version = 2,
 	},
 	[616] = 
 	{
@@ -479,9 +479,9 @@ local tbl =
 	[1155] = 
 	{
 		Name = "[HM] - Another Mount Rokkon",
-		Notes = "Inital",
-		Time = 1690551147,
-		Version = 1,
+		Notes = "Release",
+		Time = 1693284857,
+		Version = 2,
 	},
 }
 
