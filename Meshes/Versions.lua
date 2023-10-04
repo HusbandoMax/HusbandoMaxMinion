@@ -332,9 +332,9 @@ local tbl =
 	[1055] = 
 	{
 		Name = "[HM] - Unnamed Island",
-		Notes = "Reworks",
-		Time = 1693269240,
-		Version = 10,
+		Notes = "6.5 p1",
+		Time = 1696439929,
+		Version = 11,
 	},
 	[1064] = 
 	{
@@ -481,6 +481,13 @@ local tbl =
 		Name = "[HM] - Another Mount Rokkon",
 		Notes = "Release",
 		Time = 1693284857,
+		Version = 2,
+	},
+	[1164] = 
+	{
+		Name = "[HM] - The Lunar Subterrane",
+		Notes = "Release",
+		Time = 1696439906,
 		Version = 2,
 	},
 }
