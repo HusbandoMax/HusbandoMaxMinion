@@ -332,9 +332,9 @@ local tbl =
 	[1055] = 
 	{
 		Name = "[HM] - Unnamed Island",
-		Notes = "6.5 p1",
-		Time = 1696439929,
-		Version = 11,
+		Notes = "Tweaks",
+		Time = 1699253222,
+		Version = 12,
 	},
 	[1064] = 
 	{
@@ -488,6 +488,20 @@ local tbl =
 		Name = "[HM] - The Lunar Subterrane",
 		Notes = "Release",
 		Time = 1696439906,
+		Version = 2,
+	},
+	[1172] = 
+	{
+		Name = "[HM] - The Drowned City of Skalla",
+		Notes = "Release",
+		Time = 1699253233,
+		Version = 2,
+	},
+	[1176] = 
+	{
+		Name = "[HM] - Aloalo Island",
+		Notes = "Release",
+		Time = 1699253237,
 		Version = 2,
 	},
 }
