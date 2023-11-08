@@ -497,6 +497,20 @@ local tbl =
 		Time = 1699253233,
 		Version = 2,
 	},
+	[1173] = 
+	{
+		Name = "[HM] - The Burn",
+		Notes = "Release",
+		Time = 1699447441,
+		Version = 2,
+	},
+	[1174] = 
+	{
+		Name = "[HM] - The Ghimlyt Dark",
+		Notes = "Release",
+		Time = 1699447449,
+		Version = 2,
+	},
 	[1176] = 
 	{
 		Name = "[HM] - Aloalo Island",
