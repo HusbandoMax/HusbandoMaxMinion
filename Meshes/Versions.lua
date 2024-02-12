@@ -1,5 +1,12 @@
 local tbl = 
 {
+	[144] = 
+	{
+		Name = "[HM] - The Gold Saucer",
+		Notes = "Release",
+		Time = 1707541535,
+		Version = 2,
+	},
 	[158] = 
 	{
 		Name = "[HM] - Brayflox's Longstop",
@@ -97,6 +104,20 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237952,
 		Version = 3,
+	},
+	[554] = 
+	{
+		Name = "[HM] - The Fields of Glory v2",
+		Notes = "Release",
+		Time = 1707732189,
+		Version = 2,
+	},
+	[579] = 
+	{
+		Name = "[HM] - The Battlehall",
+		Notes = "Release",
+		Time = 1707551320,
+		Version = 2,
 	},
 	[613] = 
 	{
