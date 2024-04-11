@@ -84,6 +84,13 @@ local tbl =
 		Time = 1712814072,
 		Version = 2,
 	},
+	[445] = 
+	{
+		Name = "[HM] - The Burden of the Father",
+		Notes = "Release",
+		Time = 1712868201,
+		Version = 2,
+	},
 	[510] = 
 	{
 		Name = "[HM] - Pharos Sirius (Hard)",
