@@ -77,6 +77,13 @@ local tbl =
 		Time = 1672237940,
 		Version = 3,
 	},
+	[442] = 
+	{
+		Name = "[HM] - The Fist of the Father",
+		Notes = "Release",
+		Time = 1712814072,
+		Version = 2,
+	},
 	[510] = 
 	{
 		Name = "[HM] - Pharos Sirius (Hard)",
@@ -139,6 +146,13 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237956,
 		Version = 3,
+	},
+	[693] = 
+	{
+		Name = "[HM] - Deltascape V3.0",
+		Notes = "Release",
+		Time = 1712805884,
+		Version = 2,
 	},
 	[788] = 
 	{
