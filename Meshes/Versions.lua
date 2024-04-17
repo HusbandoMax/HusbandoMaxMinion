@@ -157,9 +157,9 @@ local tbl =
 	[693] = 
 	{
 		Name = "[HM] - Deltascape V3.0",
-		Notes = "Release",
-		Time = 1712805884,
-		Version = 2,
+		Notes = "Deltascape v3: Maze Total Rework",
+		Time = 1713346990,
+		Version = 3,
 	},
 	[788] = 
 	{
