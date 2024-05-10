@@ -164,9 +164,9 @@ local tbl =
 	[788] = 
 	{
 		Name = "[HM] - Saint Mocianne's Arboretum",
-		Notes = "Release",
-		Time = 1677887939,
-		Version = 2,
+		Notes = "Arboretum Extra Buffer",
+		Time = 1715328103,
+		Version = 3,
 	},
 	[821] = 
 	{
