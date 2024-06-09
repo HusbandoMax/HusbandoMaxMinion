@@ -126,6 +126,13 @@ local tbl =
 		Time = 1712638877,
 		Version = 3,
 	},
+	[570] = 
+	{
+		Name = "[HM] - The Palace of the Dead",
+		Notes = "Release",
+		Time = 1717889669,
+		Version = 2,
+	},
 	[579] = 
 	{
 		Name = "[HM] - The Battlehall",
@@ -143,9 +150,9 @@ local tbl =
 	[616] = 
 	{
 		Name = "[HM] - Shisui of the Violet Tides",
-		Notes = "Release",
-		Time = 1672237954,
-		Version = 3,
+		Notes = "Tweaks",
+		Time = 1717890466,
+		Version = 4,
 	},
 	[626] = 
 	{
@@ -164,9 +171,9 @@ local tbl =
 	[788] = 
 	{
 		Name = "[HM] - Saint Mocianne's Arboretum",
-		Notes = "Arboretum Extra Buffer",
-		Time = 1715328103,
-		Version = 3,
+		Notes = "Tweaks",
+		Time = 1717890671,
+		Version = 4,
 	},
 	[821] = 
 	{
