@@ -539,6 +539,13 @@ local tbl =
 		Time = 1710932213,
 		Version = 3,
 	},
+	[1167] = 
+	{
+		Name = "[HM] - Ihuykatumu",
+		Notes = "Release",
+		Time = 1719975225,
+		Version = 2,
+	},
 	[1172] = 
 	{
 		Name = "[HM] - The Drowned City of Skalla",
@@ -565,6 +572,20 @@ local tbl =
 		Name = "[HM] - Aloalo Island",
 		Notes = "Release",
 		Time = 1699253237,
+		Version = 2,
+	},
+	[1193] = 
+	{
+		Name = "[HM] - Worqor Zormor",
+		Notes = "Release",
+		Time = 1719975229,
+		Version = 2,
+	},
+	[1194] = 
+	{
+		Name = "[HM] - The Skydeep Cenote",
+		Notes = "Release",
+		Time = 1719975231,
 		Version = 2,
 	},
 }
