@@ -736,6 +736,22 @@ local tbl =
 		Time = 1719975231,
 		Version = 2,
 	},
+	[1198] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Vanguard",
+		Notes = "Release",
+		Time = 1720400946,
+		Version = 2,
+	},
+	[1208] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Origenics",
+		Notes = "Release",
+		Time = 1720400950,
+		Version = 2,
+	},
 }
 
 
