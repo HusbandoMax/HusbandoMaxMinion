@@ -744,6 +744,14 @@ local tbl =
 		Time = 1720400946,
 		Version = 2,
 	},
+	[1199] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Alexandria",
+		Notes = "Release",
+		Time = 1720681346,
+		Version = 2,
+	},
 	[1208] = 
 	{
 		Enabled = true,
