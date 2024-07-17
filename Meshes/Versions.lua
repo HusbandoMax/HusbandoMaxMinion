@@ -736,6 +736,14 @@ local tbl =
 		Time = 1719975231,
 		Version = 2,
 	},
+	[1195] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Worqor Lar Dor",
+		Notes = "Release",
+		Time = 1721254381,
+		Version = 2,
+	},
 	[1198] = 
 	{
 		Enabled = true,
