@@ -768,6 +768,22 @@ local tbl =
 		Time = 1720400950,
 		Version = 2,
 	},
+	[1211] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - Taking a Stand",
+		Notes = "Release",
+		Time = 1721307627,
+		Version = 2,
+	},
+	[1212] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - The Feat of the Brotherhood",
+		Notes = "Release",
+		Time = 1721307623,
+		Version = 2,
+	},
 }
 
 
