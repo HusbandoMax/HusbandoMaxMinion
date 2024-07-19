@@ -380,9 +380,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Brayflox's Longstop v2",
-		Notes = "Release",
-		Time = 1672238027,
-		Version = 3,
+		Notes = "Mesh Tweaks",
+		Time = 1721388885,
+		Version = 4,
 	},
 	[1042] = 
 	{
@@ -436,9 +436,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Unnamed Island",
-		Notes = "Island Path Tweeks",
-		Time = 1699519910,
-		Version = 13,
+		Notes = "Cabin Tweaks",
+		Time = 1721372202,
+		Version = 14,
 	},
 	[1064] = 
 	{
@@ -783,6 +783,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1721307623,
 		Version = 2,
+	},
+	[1213] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - The Protector and the Destroyer",
+		Notes = "Inital",
+		Time = 1721349611,
+		Version = 1,
 	},
 }
 
