@@ -768,6 +768,14 @@ local tbl =
 		Time = 1720400950,
 		Version = 2,
 	},
+	[1210] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - A Father First",
+		Notes = "Release",
+		Time = 1721469221,
+		Version = 2,
+	},
 	[1211] = 
 	{
 		Enabled = true,
@@ -788,9 +796,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM][Q] - The Protector and the Destroyer",
-		Notes = "Inital",
-		Time = 1721349611,
-		Version = 1,
+		Notes = "Release",
+		Time = 1721469154,
+		Version = 2,
 	},
 }
 
