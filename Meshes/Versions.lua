@@ -760,6 +760,14 @@ local tbl =
 		Time = 1720681346,
 		Version = 2,
 	},
+	[1200] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Summit of Everkeep",
+		Notes = "Release",
+		Time = 1721491218,
+		Version = 2,
+	},
 	[1208] = 
 	{
 		Enabled = true,
@@ -773,8 +781,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM][Q] - A Father First",
 		Notes = "Release",
-		Time = 1721469221,
-		Version = 2,
+		Time = 1721491097,
+		Version = 3,
 	},
 	[1211] = 
 	{
