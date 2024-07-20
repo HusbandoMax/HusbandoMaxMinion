@@ -1,9 +1,10 @@
 local tbl = 
 {
+	Enabled = true,
 	Name = "[HM] - Ihuykatumu",
-	Notes = "Release",
-	Time = 1719975225,
-	Version = 2,
+	Notes = "OMC Tweak",
+	Time = 1721497206,
+	Version = 3,
 }
 
 
