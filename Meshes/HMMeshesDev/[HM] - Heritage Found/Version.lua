@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Heritage Found",
 	Notes = "Release",
-	Time = 1722691013,
-	Version = 2,
+	Time = 1725756508,
+	Version = 4,
 }
 
 

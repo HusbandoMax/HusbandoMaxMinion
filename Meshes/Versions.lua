@@ -677,48 +677,48 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Urqopacha",
 		Notes = "Release",
-		Time = 1722691002,
-		Version = 2,
+		Time = 1725756477,
+		Version = 4,
 	},
 	[1188] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
 		Notes = "Release",
-		Time = 1722691005,
-		Version = 2,
+		Time = 1725756484,
+		Version = 6,
 	},
 	[1189] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Yak T'el",
 		Notes = "Release",
-		Time = 1722691008,
-		Version = 2,
+		Time = 1725756502,
+		Version = 6,
 	},
 	[1190] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Shaaloani",
 		Notes = "Release",
-		Time = 1722691010,
-		Version = 2,
+		Time = 1725756506,
+		Version = 5,
 	},
 	[1191] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Heritage Found",
 		Notes = "Release",
-		Time = 1722691013,
-		Version = 2,
+		Time = 1725756508,
+		Version = 4,
 	},
 	[1192] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Living Memory",
 		Notes = "Release",
-		Time = 1722691015,
-		Version = 2,
+		Time = 1725756511,
+		Version = 6,
 	},
 	[1193] = 
 	{

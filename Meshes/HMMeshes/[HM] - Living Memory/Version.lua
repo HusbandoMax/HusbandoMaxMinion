@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Living Memory",
 	Notes = "Release",
-	Time = 1722691015,
-	Version = 2,
+	Time = 1725756511,
+	Version = 6,
 }
 
 
