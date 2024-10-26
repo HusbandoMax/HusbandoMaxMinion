@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Solution Nine",
-	Notes = "Release",
-	Time = 1722691000,
-	Version = 2,
+	Notes = "Mesh Tweak",
+	Time = 1729886938,
+	Version = 3,
 }
 
 
