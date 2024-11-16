@@ -296,6 +296,30 @@ local tbl =
 		Time = 1672237981,
 		Version = 3,
 	},
+	[959] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Mare Lamentorum",
+		Notes = "Inital",
+		Time = 1730577941,
+		Version = 1,
+	},
+	[960] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Ultima Thule",
+		Notes = "Inital",
+		Time = 1730577011,
+		Version = 1,
+	},
+	[961] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Elpis",
+		Notes = "Inital",
+		Time = 1730488050,
+		Version = 1,
+	},
 	[969] = 
 	{
 		Enabled = true,
@@ -708,9 +732,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Shaaloani",
-		Notes = "Release",
-		Time = 1725756506,
-		Version = 5,
+		Notes = "Underwater Tweaks",
+		Time = 1731794317,
+		Version = 6,
 	},
 	[1191] = 
 	{
@@ -814,6 +838,14 @@ local tbl =
 		Name = "[HM][Q] - The Protector and the Destroyer",
 		Notes = "Release",
 		Time = 1721469154,
+		Version = 2,
+	},
+	[1242] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Yuweyawata",
+		Notes = "Release",
+		Time = 1731794387,
 		Version = 2,
 	},
 }
