@@ -2,9 +2,9 @@ local tbl =
 {
 	Enabled = true,
 	Name = "[HM] - Shaaloani",
-	Notes = "Underwater Tweaks",
-	Time = 1731794317,
-	Version = 6,
+	Notes = "Tweaks",
+	Time = 1731834456,
+	Version = 8,
 }
 
 

@@ -732,9 +732,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Shaaloani",
-		Notes = "Underwater Tweaks",
-		Time = 1731794317,
-		Version = 6,
+		Notes = "Tweaks",
+		Time = 1731834456,
+		Version = 8,
 	},
 	[1191] = 
 	{
@@ -845,8 +845,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Yuweyawata",
 		Notes = "Release",
-		Time = 1731794387,
-		Version = 2,
+		Time = 1731834407,
+		Version = 3,
 	},
 }
 
