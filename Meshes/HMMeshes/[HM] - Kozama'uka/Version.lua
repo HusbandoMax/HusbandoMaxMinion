@@ -2,9 +2,9 @@ local tbl =
 {
 	Enabled = true,
 	Name = "[HM] - Kozama'uka",
-	Notes = "Release",
-	Time = 1725756484,
-	Version = 6,
+	Notes = "Beast Tribe Update",
+	Time = 1732747095,
+	Version = 7,
 }
 
 

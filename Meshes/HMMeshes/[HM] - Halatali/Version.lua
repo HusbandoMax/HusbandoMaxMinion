@@ -1,8 +1,9 @@
 local tbl = 
 {
+	Enabled = true,
 	Name = "[HM] - Halatali",
 	Notes = "Release",
-	Time = 1672237910,
+	Time = 1732216103,
 	Version = 3,
 }
 

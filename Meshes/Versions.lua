@@ -296,29 +296,53 @@ local tbl =
 		Time = 1672237981,
 		Version = 3,
 	},
+	[956] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Labyrinthos",
+		Notes = "Pass 1",
+		Time = 1732747102,
+		Version = 2,
+	},
+	[957] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Thavnair",
+		Notes = "Pass 1",
+		Time = 1732747106,
+		Version = 2,
+	},
+	[958] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Garlemald",
+		Notes = "Pass 1",
+		Time = 1732747115,
+		Version = 2,
+	},
 	[959] = 
 	{
 		Enabled = false,
 		Name = "[HM] - Mare Lamentorum",
-		Notes = "Inital",
-		Time = 1730577941,
-		Version = 1,
+		Notes = "Fixes",
+		Time = 1732744977,
+		Version = 2,
 	},
 	[960] = 
 	{
 		Enabled = false,
 		Name = "[HM] - Ultima Thule",
-		Notes = "Inital",
-		Time = 1730577011,
-		Version = 1,
+		Notes = "Pass 1",
+		Time = 1732747120,
+		Version = 2,
 	},
 	[961] = 
 	{
 		Enabled = false,
 		Name = "[HM] - Elpis",
-		Notes = "Inital",
-		Time = 1730488050,
-		Version = 1,
+		Notes = "Pass 1",
+		Time = 1732747123,
+		Version = 2,
 	},
 	[969] = 
 	{
@@ -716,9 +740,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
-		Notes = "Release",
-		Time = 1725756484,
-		Version = 6,
+		Notes = "Beast Tribe Update",
+		Time = 1732747095,
+		Version = 7,
 	},
 	[1189] = 
 	{
@@ -846,6 +870,14 @@ local tbl =
 		Name = "[HM] - Yuweyawata",
 		Notes = "Release",
 		Time = 1731834407,
+		Version = 3,
+	},
+	[1245] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Halatali",
+		Notes = "Release",
+		Time = 1732216103,
 		Version = 3,
 	},
 }
