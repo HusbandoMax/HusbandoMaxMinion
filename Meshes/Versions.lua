@@ -160,12 +160,28 @@ local tbl =
 		Time = 1707551320,
 		Version = 2,
 	},
+	[612] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Fringes",
+		Notes = "Release",
+		Time = 1735594897,
+		Version = 2,
+	},
 	[613] = 
 	{
 		Enabled = true,
 		Name = "[HM] - The Ruby Sea",
 		Notes = "Release",
 		Time = 1693284848,
+		Version = 2,
+	},
+	[614] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Yanxia",
+		Notes = "Release",
+		Time = 1735594900,
 		Version = 2,
 	},
 	[616] = 
@@ -175,6 +191,30 @@ local tbl =
 		Notes = "Tweaks",
 		Time = 1717890466,
 		Version = 4,
+	},
+	[620] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Peaks",
+		Notes = "Release",
+		Time = 1735594903,
+		Version = 2,
+	},
+	[621] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Lochs",
+		Notes = "Release",
+		Time = 1735603130,
+		Version = 3,
+	},
+	[622] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Azim Steppe",
+		Notes = "Release",
+		Time = 1735594909,
+		Version = 2,
 	},
 	[626] = 
 	{
@@ -192,6 +232,22 @@ local tbl =
 		Time = 1713346990,
 		Version = 3,
 	},
+	[712] = 
+	{
+		Enabled = false,
+		Name = "[HM] - The Lost Canals of Uznair",
+		Notes = "Inital",
+		Time = 1734217447,
+		Version = 1,
+	},
+	[725] = 
+	{
+		Enabled = false,
+		Name = "[HM] - The Lost Canals of Uznair",
+		Notes = "Inital",
+		Time = 1734224559,
+		Version = 1,
+	},
 	[788] = 
 	{
 		Enabled = true,
@@ -199,6 +255,62 @@ local tbl =
 		Notes = "Tweaks",
 		Time = 1717890671,
 		Version = 4,
+	},
+	[794] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Shifting Altars of Uznair",
+		Notes = "Release",
+		Time = 1735594893,
+		Version = 2,
+	},
+	[813] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Lakeland",
+		Notes = "Release",
+		Time = 1735594886,
+		Version = 2,
+	},
+	[814] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Kholusia",
+		Notes = "Release",
+		Time = 1735594888,
+		Version = 2,
+	},
+	[815] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Amh Araeng",
+		Notes = "Release",
+		Time = 1735594882,
+		Version = 2,
+	},
+	[816] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Il Mheg",
+		Notes = "Release",
+		Time = 1735594878,
+		Version = 2,
+	},
+	[817] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Rak'tika Greatwood",
+		Notes = "Release",
+		Time = 1735594875,
+		Version = 2,
+	},
+	[818] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Tempest",
+		Notes = "Release",
+		Time = 1735594872,
+		Version = 2,
 	},
 	[821] = 
 	{
@@ -298,7 +410,7 @@ local tbl =
 	},
 	[956] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Labyrinthos",
 		Notes = "Pass 1",
 		Time = 1732747102,
@@ -306,7 +418,7 @@ local tbl =
 	},
 	[957] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Thavnair",
 		Notes = "Pass 1",
 		Time = 1732747106,
@@ -314,7 +426,7 @@ local tbl =
 	},
 	[958] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Garlemald",
 		Notes = "Pass 1",
 		Time = 1732747115,
@@ -322,7 +434,7 @@ local tbl =
 	},
 	[959] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Mare Lamentorum",
 		Notes = "Fixes",
 		Time = 1732744977,
@@ -330,7 +442,7 @@ local tbl =
 	},
 	[960] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Ultima Thule",
 		Notes = "Pass 1",
 		Time = 1732747120,
@@ -338,7 +450,7 @@ local tbl =
 	},
 	[961] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Elpis",
 		Notes = "Pass 1",
 		Time = 1732747123,
@@ -383,6 +495,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237994,
 		Version = 3,
+	},
+	[1000] = 
+	{
+		Enabled = false,
+		Name = "[HM] - The Excitatron 6000",
+		Notes = "Inital",
+		Time = 1736043009,
+		Version = 1,
 	},
 	[1036] = 
 	{
