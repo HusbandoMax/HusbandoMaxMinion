@@ -2,9 +2,9 @@ local tbl =
 {
 	Enabled = true,
 	Name = "[HM] - The Rak'tika Greatwood",
-	Notes = "Release",
-	Time = 1735594875,
-	Version = 2,
+	Notes = "Fix",
+	Time = 1736075642,
+	Version = 3,
 }
 
 
