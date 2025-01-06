@@ -352,6 +352,14 @@ local tbl =
 		Time = 1672237968,
 		Version = 3,
 	},
+	[879] = 
+	{
+		Enabled = false,
+		Name = "[HM] - The Dungeons of Lyhe Ghiah",
+		Notes = "Inital",
+		Time = 1736116222,
+		Version = 1,
+	},
 	[884] = 
 	{
 		Enabled = true,
@@ -375,6 +383,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237975,
 		Version = 3,
+	},
+	[924] = 
+	{
+		Enabled = false,
+		Name = "[HM] - The Shifting Oubliettes of Lyhe Ghiah",
+		Notes = "Inital",
+		Time = 1736076272,
+		Version = 1,
 	},
 	[933] = 
 	{
