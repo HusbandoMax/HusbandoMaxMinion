@@ -144,6 +144,14 @@ local tbl =
 		Time = 1712638877,
 		Version = 3,
 	},
+	[558] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Aquapolis",
+		Notes = "Release",
+		Time = 1736477610,
+		Version = 2,
+	},
 	[570] = 
 	{
 		Enabled = true,
@@ -234,19 +242,19 @@ local tbl =
 	},
 	[712] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Lost Canals of Uznair",
-		Notes = "Inital",
-		Time = 1734217447,
-		Version = 1,
+		Notes = "Release",
+		Time = 1736477612,
+		Version = 2,
 	},
 	[725] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Lost Canals of Uznair",
-		Notes = "Inital",
-		Time = 1734224559,
-		Version = 1,
+		Notes = "Release",
+		Time = 1736477622,
+		Version = 2,
 	},
 	[788] = 
 	{
@@ -354,11 +362,11 @@ local tbl =
 	},
 	[879] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Dungeons of Lyhe Ghiah",
-		Notes = "Inital",
-		Time = 1736116222,
-		Version = 1,
+		Notes = "Release",
+		Time = 1736477614,
+		Version = 2,
 	},
 	[884] = 
 	{
@@ -386,11 +394,11 @@ local tbl =
 	},
 	[924] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Shifting Oubliettes of Lyhe Ghiah",
-		Notes = "Inital",
-		Time = 1736076272,
-		Version = 1,
+		Notes = "Release",
+		Time = 1736477616,
+		Version = 2,
 	},
 	[933] = 
 	{
@@ -514,11 +522,11 @@ local tbl =
 	},
 	[1000] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Excitatron 6000",
-		Notes = "Inital",
-		Time = 1736043009,
-		Version = 1,
+		Notes = "Release",
+		Time = 1736477618,
+		Version = 2,
 	},
 	[1036] = 
 	{
@@ -876,9 +884,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
-		Notes = "Beast Tribe Update",
-		Time = 1732747095,
-		Version = 7,
+		Notes = "Beast Tribe Cleanup",
+		Time = 1736464839,
+		Version = 8,
 	},
 	[1189] = 
 	{
