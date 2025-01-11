@@ -148,9 +148,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - The Aquapolis",
-		Notes = "Release",
-		Time = 1736477610,
-		Version = 2,
+		Notes = "Fixes",
+		Time = 1736491215,
+		Version = 3,
 	},
 	[570] = 
 	{
@@ -974,6 +974,14 @@ local tbl =
 		Name = "[HM] - Origenics",
 		Notes = "Release",
 		Time = 1720400950,
+		Version = 2,
+	},
+	[1209] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Cenote Ja Ja Gural",
+		Notes = "Release",
+		Time = 1736560031,
 		Version = 2,
 	},
 	[1210] = 

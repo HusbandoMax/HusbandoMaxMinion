@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - The Aquapolis",
-	Notes = "Release",
-	Time = 1736477610,
-	Version = 2,
+	Notes = "Fixes",
+	Time = 1736491215,
+	Version = 3,
 }
 
 
