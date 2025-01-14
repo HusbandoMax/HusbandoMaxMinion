@@ -4,9 +4,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - The Gold Saucer",
-		Notes = "Release",
-		Time = 1707541535,
-		Version = 2,
+		Notes = "Tweaks",
+		Time = 1736818613,
+		Version = 3,
 	},
 	[158] = 
 	{
@@ -892,9 +892,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Yak T'el",
-		Notes = "Release",
-		Time = 1725756502,
-		Version = 6,
+		Notes = "Tweaks",
+		Time = 1736666379,
+		Version = 7,
 	},
 	[1190] = 
 	{
