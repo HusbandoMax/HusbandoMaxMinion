@@ -1032,6 +1032,14 @@ local tbl =
 		Time = 1732216103,
 		Version = 3,
 	},
+	[1265] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Lower Jeuno",
+		Notes = "Release",
+		Time = 1736825439,
+		Version = 2,
+	},
 }
 
 
