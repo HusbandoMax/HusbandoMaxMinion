@@ -893,8 +893,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Yak T'el",
 		Notes = "Tweaks",
-		Time = 1736666379,
-		Version = 7,
+		Time = 1737568172,
+		Version = 8,
 	},
 	[1190] = 
 	{
