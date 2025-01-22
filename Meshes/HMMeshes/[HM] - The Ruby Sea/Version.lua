@@ -1,9 +1,10 @@
 local tbl = 
 {
+	Enabled = true,
 	Name = "[HM] - The Ruby Sea",
-	Notes = "Release",
-	Time = 1693284848,
-	Version = 2,
+	Notes = "Cube Fixes",
+	Time = 1737510254,
+	Version = 4,
 }
 
 
