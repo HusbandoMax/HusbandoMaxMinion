@@ -2,9 +2,9 @@ local tbl =
 {
 	Enabled = true,
 	Name = "[HM] - The Peaks",
-	Notes = "Release",
-	Time = 1735594903,
-	Version = 2,
+	Notes = "Cube Fix",
+	Time = 1737887816,
+	Version = 3,
 }
 
 
