@@ -884,9 +884,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
-		Notes = "Beast Tribe Cleanup",
-		Time = 1736464839,
-		Version = 8,
+		Notes = "Tweaks",
+		Time = 1738273667,
+		Version = 9,
 	},
 	[1189] = 
 	{
@@ -901,8 +901,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Shaaloani",
 		Notes = "Tweaks",
-		Time = 1731834456,
-		Version = 8,
+		Time = 1738131463,
+		Version = 9,
 	},
 	[1191] = 
 	{
@@ -1023,6 +1023,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1731834407,
 		Version = 3,
+	},
+	[1244] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - The Warmth of Family",
+		Notes = "Release",
+		Time = 1738191761,
+		Version = 2,
 	},
 	[1245] = 
 	{
