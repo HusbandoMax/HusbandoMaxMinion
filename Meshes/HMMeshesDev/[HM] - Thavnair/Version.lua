@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Thavnair",
-	Notes = "Pass 1",
-	Time = 1732747106,
-	Version = 2,
+	Notes = "Tweaks",
+	Time = 1738820505,
+	Version = 4,
 }
 
 

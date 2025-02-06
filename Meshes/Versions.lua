@@ -8,6 +8,14 @@ local tbl =
 		Time = 1736818613,
 		Version = 3,
 	},
+	[148] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Central Shroud",
+		Notes = "Release",
+		Time = 1738542697,
+		Version = 2,
+	},
 	[158] = 
 	{
 		Enabled = true,
@@ -71,6 +79,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237937,
 		Version = 3,
+	},
+	[400] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Churning Mists",
+		Notes = "Release",
+		Time = 1738627037,
+		Version = 2,
 	},
 	[402] = 
 	{
@@ -180,9 +196,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - The Ruby Sea",
-		Notes = "Cube Fixes",
-		Time = 1737510254,
-		Version = 4,
+		Notes = "Fixes",
+		Time = 1738623897,
+		Version = 5,
 	},
 	[614] = 
 	{
@@ -444,9 +460,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Thavnair",
-		Notes = "Pass 1",
-		Time = 1732747106,
-		Version = 2,
+		Notes = "Tweaks",
+		Time = 1738820505,
+		Version = 4,
 	},
 	[958] = 
 	{
@@ -884,9 +900,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
-		Notes = "Tweaks",
-		Time = 1738273667,
-		Version = 9,
+		Notes = "Connections",
+		Time = 1738655364,
+		Version = 10,
 	},
 	[1189] = 
 	{
