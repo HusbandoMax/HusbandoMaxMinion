@@ -452,9 +452,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Labyrinthos",
-		Notes = "Pass 1",
-		Time = 1732747102,
-		Version = 2,
+		Notes = "Tweaks",
+		Time = 1738894199,
+		Version = 3,
 	},
 	[957] = 
 	{
