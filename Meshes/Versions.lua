@@ -196,9 +196,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - The Ruby Sea",
-		Notes = "Fixes",
-		Time = 1738623897,
-		Version = 5,
+		Notes = "Release",
+		Time = 1739065177,
+		Version = 6,
 	},
 	[614] = 
 	{
