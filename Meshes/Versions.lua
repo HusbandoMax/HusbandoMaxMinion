@@ -16,6 +16,14 @@ local tbl =
 		Time = 1738542697,
 		Version = 2,
 	},
+	[154] = 
+	{
+		Enabled = true,
+		Name = "[HM] - North Shroud",
+		Notes = "Release",
+		Time = 1739349987,
+		Version = 2,
+	},
 	[158] = 
 	{
 		Enabled = true,
@@ -85,7 +93,15 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Churning Mists",
 		Notes = "Release",
-		Time = 1738627037,
+		Time = 1739424404,
+		Version = 6,
+	},
+	[401] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Sea of Clouds",
+		Notes = "Release",
+		Time = 1739422480,
 		Version = 2,
 	},
 	[402] = 
