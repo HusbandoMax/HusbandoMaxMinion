@@ -16,6 +16,14 @@ local tbl =
 		Time = 1738542697,
 		Version = 2,
 	},
+	[152] = 
+	{
+		Enabled = true,
+		Name = "[HM] - East Shroud",
+		Notes = "Release",
+		Time = 1739596008,
+		Version = 2,
+	},
 	[154] = 
 	{
 		Enabled = true,
@@ -333,8 +341,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Il Mheg",
 		Notes = "Release",
-		Time = 1735594878,
-		Version = 2,
+		Time = 1739594027,
+		Version = 3,
 	},
 	[817] = 
 	{
@@ -407,6 +415,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237970,
 		Version = 3,
+	},
+	[892] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Lyhe Mheg 7",
+		Notes = "Release",
+		Time = 1739748343,
+		Version = 2,
 	},
 	[898] = 
 	{
