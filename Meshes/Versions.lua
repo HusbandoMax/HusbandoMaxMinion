@@ -1,5 +1,13 @@
 local tbl = 
 {
+	[138] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Western La Noscea",
+		Notes = "Release",
+		Time = 1739997928,
+		Version = 2,
+	},
 	[144] = 
 	{
 		Enabled = true,
@@ -8,12 +16,28 @@ local tbl =
 		Time = 1736818613,
 		Version = 3,
 	},
+	[146] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Southern Thanalan",
+		Notes = "Release",
+		Time = 1740014090,
+		Version = 2,
+	},
 	[148] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Central Shroud",
 		Notes = "Release",
 		Time = 1738542697,
+		Version = 2,
+	},
+	[152] = 
+	{
+		Enabled = true,
+		Name = "[HM] - East Shroud",
+		Notes = "Release",
+		Time = 1739596008,
 		Version = 2,
 	},
 	[154] = 
@@ -80,6 +104,14 @@ local tbl =
 		Time = 1672237935,
 		Version = 3,
 	},
+	[180] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Outer La Noscea",
+		Notes = "Release",
+		Time = 1739924804,
+		Version = 2,
+	},
 	[188] = 
 	{
 		Enabled = true,
@@ -101,8 +133,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Sea of Clouds",
 		Notes = "Release",
-		Time = 1739422480,
-		Version = 2,
+		Time = 1739908559,
+		Version = 3,
 	},
 	[402] = 
 	{
@@ -333,8 +365,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Il Mheg",
 		Notes = "Release",
-		Time = 1735594878,
-		Version = 2,
+		Time = 1739594027,
+		Version = 3,
 	},
 	[817] = 
 	{
@@ -408,6 +440,14 @@ local tbl =
 		Time = 1672237970,
 		Version = 3,
 	},
+	[892] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Lyhe Mheg 7",
+		Notes = "Release",
+		Time = 1739748343,
+		Version = 2,
+	},
 	[898] = 
 	{
 		Enabled = true,
@@ -477,8 +517,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Thavnair",
 		Notes = "Release",
-		Time = 1739053816,
-		Version = 5,
+		Time = 1739828005,
+		Version = 6,
 	},
 	[958] = 
 	{
