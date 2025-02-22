@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Outer La Noscea",
 	Notes = "Release",
-	Time = 1739924804,
-	Version = 2,
+	Time = 1740035597,
+	Version = 3,
 }
 
 

@@ -21,8 +21,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Southern Thanalan",
 		Notes = "Release",
-		Time = 1740014090,
-		Version = 2,
+		Time = 1740081591,
+		Version = 5,
 	},
 	[148] = 
 	{
@@ -37,8 +37,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - East Shroud",
 		Notes = "Release",
-		Time = 1739596008,
-		Version = 2,
+		Time = 1740030217,
+		Version = 3,
 	},
 	[154] = 
 	{
@@ -109,8 +109,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Outer La Noscea",
 		Notes = "Release",
-		Time = 1739924804,
-		Version = 2,
+		Time = 1740035597,
+		Version = 3,
 	},
 	[188] = 
 	{
