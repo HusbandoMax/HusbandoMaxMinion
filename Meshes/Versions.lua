@@ -5,8 +5,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Western La Noscea",
 		Notes = "Release",
-		Time = 1739997928,
-		Version = 2,
+		Time = 1740264605,
+		Version = 3,
 	},
 	[144] = 
 	{
@@ -21,32 +21,32 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Southern Thanalan",
 		Notes = "Release",
-		Time = 1740081591,
-		Version = 5,
+		Time = 1740264601,
+		Version = 6,
 	},
 	[148] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Central Shroud",
 		Notes = "Release",
-		Time = 1738542697,
-		Version = 2,
+		Time = 1740264612,
+		Version = 3,
 	},
 	[152] = 
 	{
 		Enabled = true,
 		Name = "[HM] - East Shroud",
 		Notes = "Release",
-		Time = 1740030217,
-		Version = 3,
+		Time = 1740264608,
+		Version = 4,
 	},
 	[154] = 
 	{
 		Enabled = true,
 		Name = "[HM] - North Shroud",
 		Notes = "Release",
-		Time = 1739349987,
-		Version = 2,
+		Time = 1740264610,
+		Version = 3,
 	},
 	[158] = 
 	{
@@ -109,8 +109,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Outer La Noscea",
 		Notes = "Release",
-		Time = 1740035597,
-		Version = 3,
+		Time = 1740251372,
+		Version = 4,
 	},
 	[188] = 
 	{
@@ -341,8 +341,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Lakeland",
 		Notes = "Release",
-		Time = 1735594886,
-		Version = 2,
+		Time = 1740264596,
+		Version = 3,
 	},
 	[814] = 
 	{

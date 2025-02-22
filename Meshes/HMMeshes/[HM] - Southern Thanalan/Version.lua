@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Southern Thanalan",
 	Notes = "Release",
-	Time = 1740081591,
-	Version = 5,
+	Time = 1740264601,
+	Version = 6,
 }
 
 
