@@ -448,6 +448,13 @@ local tbl =
 		Time = 1739748343,
 		Version = 2,
 	},
+	[894] = 
+	{
+		Name = "[HM] - Lyhe Mheg Rank 6 Solo Duty",
+		Notes = "Inital",
+		Time = 1740344456,
+		Version = 1,
+	},
 	[898] = 
 	{
 		Enabled = true,
