@@ -1,9 +1,9 @@
 local tbl = 
 {
 	Enabled = true,
-	Name = "[HM] - Lyhe Mheg Rank 6 Solo Duty",
+	Name = "[HM] - Kojin Rank 6 Quest",
 	Notes = "Release",
-	Time = 1740956485,
+	Time = 1740956479,
 	Version = 2,
 }
 
