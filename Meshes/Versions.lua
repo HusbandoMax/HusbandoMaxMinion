@@ -296,6 +296,14 @@ local tbl =
 		Time = 1672237956,
 		Version = 3,
 	},
+	[657] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Kojin Rank 6 Quest",
+		Notes = "Release",
+		Time = 1740956479,
+		Version = 2,
+	},
 	[693] = 
 	{
 		Enabled = true,
@@ -450,10 +458,11 @@ local tbl =
 	},
 	[894] = 
 	{
+		Enabled = true,
 		Name = "[HM] - Lyhe Mheg Rank 6 Solo Duty",
-		Notes = "Inital",
-		Time = 1740344456,
-		Version = 1,
+		Notes = "Release",
+		Time = 1740956485,
+		Version = 2,
 	},
 	[898] = 
 	{
