@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - East Shroud",
 	Notes = "Release",
-	Time = 1740264608,
-	Version = 4,
+	Time = 1741066851,
+	Version = 5,
 }
 
 

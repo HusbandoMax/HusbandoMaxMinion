@@ -37,16 +37,16 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - East Shroud",
 		Notes = "Release",
-		Time = 1740264608,
-		Version = 4,
+		Time = 1741066851,
+		Version = 5,
 	},
 	[154] = 
 	{
 		Enabled = true,
 		Name = "[HM] - North Shroud",
 		Notes = "Release",
-		Time = 1740264610,
-		Version = 3,
+		Time = 1741066856,
+		Version = 4,
 	},
 	[158] = 
 	{
@@ -844,9 +844,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Mount Rokkon",
-		Notes = "Fixes",
-		Time = 1690336947,
-		Version = 4,
+		Notes = "Release",
+		Time = 1741066864,
+		Version = 5,
 	},
 	[1142] = 
 	{
