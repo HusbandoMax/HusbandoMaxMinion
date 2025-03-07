@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - The Churning Mists",
 	Notes = "Release",
-	Time = 1739424404,
-	Version = 6,
+	Time = 1741390020,
+	Version = 7,
 }
 
 

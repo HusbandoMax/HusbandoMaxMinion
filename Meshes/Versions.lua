@@ -125,8 +125,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Churning Mists",
 		Notes = "Release",
-		Time = 1739424404,
-		Version = 6,
+		Time = 1741390020,
+		Version = 7,
 	},
 	[401] = 
 	{
@@ -326,14 +326,6 @@ local tbl =
 		Name = "[HM] - The Lost Canals of Uznair",
 		Notes = "Release",
 		Time = 1736477622,
-		Version = 2,
-	},
-	[760] = 
-	{
-		Enabled = true,
-		Name = "[HM] - Anata Rank 6 Quest",
-		Notes = "Release",
-		Time = 1741388804,
 		Version = 2,
 	},
 	[788] = 
