@@ -328,6 +328,14 @@ local tbl =
 		Time = 1736477622,
 		Version = 2,
 	},
+	[760] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Anata Rank 6 Quest",
+		Notes = "Release",
+		Time = 1741388804,
+		Version = 2,
+	},
 	[788] = 
 	{
 		Enabled = true,
@@ -373,8 +381,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Il Mheg",
 		Notes = "Release",
-		Time = 1739594027,
-		Version = 3,
+		Time = 1741388737,
+		Version = 4,
 	},
 	[817] = 
 	{
