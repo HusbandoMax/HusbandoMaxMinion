@@ -348,9 +348,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Lakeland",
-		Notes = "Release",
-		Time = 1740264596,
-		Version = 3,
+		Notes = "Fixed Connections",
+		Time = 1742427688,
+		Version = 4,
 	},
 	[814] = 
 	{
