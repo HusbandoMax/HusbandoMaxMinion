@@ -328,6 +328,14 @@ local tbl =
 		Time = 1736477622,
 		Version = 2,
 	},
+	[732] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Eureka Anemos",
+		Notes = "Release",
+		Time = 1741908349,
+		Version = 2,
+	},
 	[788] = 
 	{
 		Enabled = true,
@@ -1134,6 +1142,22 @@ local tbl =
 		Name = "[HM] - Lower Jeuno",
 		Notes = "Release",
 		Time = 1736825439,
+		Version = 2,
+	},
+	[1100732] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Eureka Anemos 1",
+		Notes = "Release",
+		Time = 1741908352,
+		Version = 2,
+	},
+	[1200732] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Eureka Anemos 2",
+		Notes = "Release",
+		Time = 1741908354,
 		Version = 2,
 	},
 }
