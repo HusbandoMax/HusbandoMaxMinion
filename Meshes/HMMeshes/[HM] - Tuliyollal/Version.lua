@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Tuliyollal",
 	Notes = "Release",
-	Time = 1722690995,
-	Version = 2,
+	Time = 1742721702,
+	Version = 3,
 }
 
 

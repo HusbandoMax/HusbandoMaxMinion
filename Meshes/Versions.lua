@@ -957,8 +957,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Tuliyollal",
 		Notes = "Release",
-		Time = 1722690995,
-		Version = 2,
+		Time = 1742721702,
+		Version = 3,
 	},
 	[1186] = 
 	{
@@ -981,8 +981,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
 		Notes = "Release",
-		Time = 1739568976,
-		Version = 11,
+		Time = 1742596374,
+		Version = 12,
 	},
 	[1189] = 
 	{
