@@ -1146,11 +1146,11 @@ local tbl =
 	},
 	[1266] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Underkeep",
-		Notes = "Inital",
-		Time = 1742947057,
-		Version = 1,
+		Notes = "Release",
+		Time = 1742971743,
+		Version = 2,
 	},
 	[1100732] = 
 	{
