@@ -548,9 +548,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Garlemald",
-		Notes = "Pass 1",
-		Time = 1732747115,
-		Version = 2,
+		Notes = "Release",
+		Time = 1745301596,
+		Version = 3,
 	},
 	[959] = 
 	{
