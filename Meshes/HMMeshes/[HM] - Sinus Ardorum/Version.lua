@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Sinus Ardorum",
 	Notes = "Release",
-	Time = 1746687888,
-	Version = 7,
+	Time = 1747205058,
+	Version = 9,
 }
 
 
