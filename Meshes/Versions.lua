@@ -1197,16 +1197,16 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Sinus Ardorum [10]",
 		Notes = "Release",
-		Time = 1747352051,
-		Version = 7,
+		Time = 1747652297,
+		Version = 9,
 	},
 	[2101237] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Sinus Ardorum [11]",
 		Notes = "Release",
-		Time = 1747625756,
-		Version = 2,
+		Time = 1747652263,
+		Version = 3,
 	},
 }
 
