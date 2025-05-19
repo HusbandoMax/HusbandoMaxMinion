@@ -1200,6 +1200,14 @@ local tbl =
 		Time = 1747352051,
 		Version = 7,
 	},
+	[2101237] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Sinus Ardorum [11]",
+		Notes = "Release",
+		Time = 1747625756,
+		Version = 2,
+	},
 }
 
 
