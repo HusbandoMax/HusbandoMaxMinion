@@ -1144,6 +1144,14 @@ local tbl =
 		Time = 1732216103,
 		Version = 3,
 	},
+	[1252] = 
+	{
+		Enabled = false,
+		Name = "[HM] - South Horn",
+		Notes = "Inital",
+		Time = 1748341981,
+		Version = 1,
+	},
 	[1265] = 
 	{
 		Enabled = true,
