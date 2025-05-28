@@ -1168,6 +1168,14 @@ local tbl =
 		Time = 1742971743,
 		Version = 2,
 	},
+	[1001189] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Yak T'el v2",
+		Notes = "Release",
+		Time = 1748427157,
+		Version = 3,
+	},
 	[1100732] = 
 	{
 		Enabled = false,
