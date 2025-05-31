@@ -1148,9 +1148,9 @@ local tbl =
 	{
 		Enabled = false,
 		Name = "[HM] - South Horn",
-		Notes = "Inital",
-		Time = 1748341981,
-		Version = 1,
+		Notes = "Release",
+		Time = 1748701682,
+		Version = 2,
 	},
 	[1265] = 
 	{
@@ -1166,6 +1166,14 @@ local tbl =
 		Name = "[HM] - The Underkeep",
 		Notes = "Release",
 		Time = 1742971743,
+		Version = 2,
+	},
+	[1278] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phantom Village",
+		Notes = "Release",
+		Time = 1748681629,
 		Version = 2,
 	},
 	[1001189] = 
