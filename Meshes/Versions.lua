@@ -768,6 +768,14 @@ local tbl =
 		Time = 1672238053,
 		Version = 3,
 	},
+	[1073] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Elysion",
+		Notes = "Release",
+		Time = 1750252271,
+		Version = 2,
+	},
 	[1097] = 
 	{
 		Enabled = true,
@@ -1181,8 +1189,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Yak T'el v2",
 		Notes = "Release",
-		Time = 1748427157,
-		Version = 3,
+		Time = 1750155799,
+		Version = 4,
 	},
 	[1100732] = 
 	{
@@ -1239,6 +1247,30 @@ local tbl =
 		Notes = "Release",
 		Time = 1748298423,
 		Version = 3,
+	},
+	[2301237] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Sinus Ardorum [13]",
+		Notes = "Release",
+		Time = 1749445749,
+		Version = 3,
+	},
+	[2401237] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Sinus Ardorum [14]",
+		Notes = "Release",
+		Time = 1749933878,
+		Version = 4,
+	},
+	[2501237] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Sinus Ardorum [15]",
+		Notes = "Release",
+		Time = 1749935467,
+		Version = 2,
 	},
 }
 
