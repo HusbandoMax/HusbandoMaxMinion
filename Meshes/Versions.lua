@@ -861,8 +861,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Mount Rokkon",
 		Notes = "Release",
-		Time = 1741066864,
-		Version = 5,
+		Time = 1750383033,
+		Version = 6,
 	},
 	[1142] = 
 	{
@@ -1270,6 +1270,14 @@ local tbl =
 		Name = "[HM] - Sinus Ardorum [15]",
 		Notes = "Release",
 		Time = 1749935467,
+		Version = 2,
+	},
+	[2601237] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Sinus Ardorum [16]",
+		Notes = "Release",
+		Time = 1750546658,
 		Version = 2,
 	},
 }
