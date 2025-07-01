@@ -285,8 +285,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Azim Steppe",
 		Notes = "Release",
-		Time = 1735594909,
-		Version = 2,
+		Time = 1751272238,
+		Version = 3,
 	},
 	[626] = 
 	{
@@ -388,9 +388,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - The Rak'tika Greatwood",
-		Notes = "Fix",
-		Time = 1736075642,
-		Version = 3,
+		Notes = "Release",
+		Time = 1750984001,
+		Version = 4,
 	},
 	[818] = 
 	{
@@ -861,8 +861,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Mount Rokkon",
 		Notes = "Release",
-		Time = 1750383033,
-		Version = 6,
+		Time = 1751337510,
+		Version = 7,
 	},
 	[1142] = 
 	{
