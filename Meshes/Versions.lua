@@ -125,8 +125,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Churning Mists",
 		Notes = "Release",
-		Time = 1741390624,
-		Version = 8,
+		Time = 1752220846,
+		Version = 9,
 	},
 	[401] = 
 	{
@@ -389,8 +389,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Rak'tika Greatwood",
 		Notes = "Release",
-		Time = 1750984001,
-		Version = 4,
+		Time = 1751872812,
+		Version = 5,
 	},
 	[818] = 
 	{
