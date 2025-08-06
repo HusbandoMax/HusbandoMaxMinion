@@ -981,8 +981,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Urqopacha",
 		Notes = "Release",
-		Time = 1725756477,
-		Version = 4,
+		Time = 1753774428,
+		Version = 5,
 	},
 	[1188] = 
 	{
@@ -1174,6 +1174,22 @@ local tbl =
 		Name = "[HM] - The Underkeep",
 		Notes = "Release",
 		Time = 1742971743,
+		Version = 2,
+	},
+	[1269] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phantom Village",
+		Notes = "Inital",
+		Time = 1753325791,
+		Version = 2,
+	},
+	[1277] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Main Deck",
+		Notes = "Release",
+		Time = 1753325745,
 		Version = 2,
 	},
 	[1278] = 
