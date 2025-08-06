@@ -1200,6 +1200,14 @@ local tbl =
 		Time = 1748681629,
 		Version = 2,
 	},
+	[1292] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Meso Terminal",
+		Notes = "Release",
+		Time = 1754497540,
+		Version = 2,
+	},
 	[1001189] = 
 	{
 		Enabled = true,
