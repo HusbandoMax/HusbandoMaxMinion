@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Living Memory",
 	Notes = "Release",
-	Time = 1725756511,
-	Version = 6,
+	Time = 1754611547,
+	Version = 7,
 }
 
 

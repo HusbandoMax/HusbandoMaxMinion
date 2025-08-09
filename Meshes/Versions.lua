@@ -1021,8 +1021,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Living Memory",
 		Notes = "Release",
-		Time = 1725756511,
-		Version = 6,
+		Time = 1754611547,
+		Version = 7,
 	},
 	[1193] = 
 	{
@@ -1221,8 +1221,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Ageless Necropolis",
 		Notes = "Release",
-		Time = 1754538898,
-		Version = 2,
+		Time = 1754745068,
+		Version = 3,
 	},
 	[1001189] = 
 	{
