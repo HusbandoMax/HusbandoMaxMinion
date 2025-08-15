@@ -8,6 +8,14 @@ local tbl =
 		Time = 1740270234,
 		Version = 4,
 	},
+	[140] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Western Thanalan",
+		Notes = "Release",
+		Time = 1755256332,
+		Version = 2,
+	},
 	[144] = 
 	{
 		Enabled = true,
