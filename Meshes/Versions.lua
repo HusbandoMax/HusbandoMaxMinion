@@ -564,9 +564,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Mare Lamentorum",
-		Notes = "Fixes",
-		Time = 1732744977,
-		Version = 2,
+		Notes = "Release",
+		Time = 1756978478,
+		Version = 3,
 	},
 	[960] = 
 	{
@@ -1271,6 +1271,14 @@ local tbl =
 		Notes = "Inital",
 		Time = 1745540353,
 		Version = 1,
+	},
+	[1301291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [3]",
+		Notes = "Release",
+		Time = 1756978519,
+		Version = 2,
 	},
 	[1901237] = 
 	{

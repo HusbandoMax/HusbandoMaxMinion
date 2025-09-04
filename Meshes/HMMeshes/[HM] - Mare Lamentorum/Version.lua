@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Mare Lamentorum",
-	Notes = "Fixes",
-	Time = 1732744977,
-	Version = 2,
+	Notes = "Release",
+	Time = 1756978478,
+	Version = 3,
 }
 
 
