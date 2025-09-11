@@ -1285,7 +1285,23 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Phaenna [4]",
 		Notes = "Release",
-		Time = 1757110497,
+		Time = 1757555568,
+		Version = 3,
+	},
+	[1501291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [5]",
+		Notes = "Release",
+		Time = 1757555548,
+		Version = 2,
+	},
+	[1601291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [6]",
+		Notes = "Release",
+		Time = 1757555551,
 		Version = 2,
 	},
 	[1901237] = 
