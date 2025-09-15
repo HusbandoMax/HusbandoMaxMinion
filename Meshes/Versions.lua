@@ -253,8 +253,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - The Ruby Sea",
 		Notes = "Release",
-		Time = 1739500022,
-		Version = 7,
+		Time = 1757892382,
+		Version = 8,
 	},
 	[614] = 
 	{
@@ -1293,15 +1293,23 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Phaenna [5]",
 		Notes = "Release",
-		Time = 1757555548,
-		Version = 2,
+		Time = 1757835539,
+		Version = 3,
 	},
 	[1601291] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Phaenna [6]",
 		Notes = "Release",
-		Time = 1757555551,
+		Time = 1757835605,
+		Version = 3,
+	},
+	[1701291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [7]",
+		Notes = "Release",
+		Time = 1757902600,
 		Version = 2,
 	},
 	[1901237] = 

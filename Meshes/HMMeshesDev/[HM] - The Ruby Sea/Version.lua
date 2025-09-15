@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - The Ruby Sea",
 	Notes = "Release",
-	Time = 1739500022,
-	Version = 7,
+	Time = 1757892382,
+	Version = 8,
 }
 
 
