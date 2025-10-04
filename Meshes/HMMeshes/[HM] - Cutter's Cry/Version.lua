@@ -1,9 +1,10 @@
 local tbl = 
 {
+	Enabled = true,
 	Name = "[HM] - Cutter's Cry",
 	Notes = "Release",
-	Time = 1672237932,
-	Version = 3,
+	Time = 1759484616,
+	Version = 4,
 }
 
 

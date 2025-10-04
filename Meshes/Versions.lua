@@ -102,7 +102,7 @@ local tbl =
 		Name = "[HM] - Cutter's Cry",
 		Notes = "Release",
 		Time = 1672237932,
-		Version = 3,
+		Version = 4,
 	},
 	[172] = 
 	{
@@ -127,6 +127,38 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237937,
 		Version = 3,
+	},
+	[348] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Porta Decumana",
+		Notes = "Release",
+		Time = 1759575886,
+		Version = 2,
+	},
+	[364] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Thornmarch",
+		Notes = "Release",
+		Time = 1759491781,
+		Version = 2,
+	},
+	[375] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Striking Tree",
+		Notes = "Release",
+		Time = 1759578231,
+		Version = 3,
+	},
+	[378] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Akh Afah Amphitheatre",
+		Notes = "Release",
+		Time = 1759578298,
+		Version = 2,
 	},
 	[400] = 
 	{
@@ -1239,6 +1271,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1754745068,
 		Version = 3,
+	},
+	[1303] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Cutter's Cry",
+		Notes = "Release",
+		Time = 1759484616,
+		Version = 4,
 	},
 	[1001189] = 
 	{
