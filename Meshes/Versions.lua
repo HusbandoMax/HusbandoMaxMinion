@@ -64,13 +64,13 @@ local tbl =
 		Time = 1672237652,
 		Version = 3,
 	},
-	[162] = 
+	[159] = 
 	{
 		Enabled = true,
-		Name = "[HM] - Halatali",
+		Name = "[HM] - The Wanderer's Palace",
 		Notes = "Release",
-		Time = 1672237910,
-		Version = 3,
+		Time = 1759791636,
+		Version = 2,
 	},
 	[164] = 
 	{
@@ -79,6 +79,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1672237912,
 		Version = 3,
+	},
+	[167] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Amdapor Keep",
+		Notes = "Release",
+		Time = 1759910827,
+		Version = 2,
 	},
 	[168] = 
 	{
@@ -1021,8 +1029,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Urqopacha",
 		Notes = "Release",
-		Time = 1753774428,
-		Version = 5,
+		Time = 1759899721,
+		Version = 7,
 	},
 	[1188] = 
 	{
@@ -1189,8 +1197,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Halatali",
 		Notes = "Release",
-		Time = 1732216103,
-		Version = 3,
+		Time = 1759657929,
+		Version = 5,
 	},
 	[1252] = 
 	{
@@ -1214,6 +1222,14 @@ local tbl =
 		Name = "[HM] - The Underkeep",
 		Notes = "Release",
 		Time = 1742971743,
+		Version = 2,
+	},
+	[1267] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Sunken Temple of Qarn",
+		Notes = "Release",
+		Time = 1759737103,
 		Version = 2,
 	},
 	[1269] = 
@@ -1271,6 +1287,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1754745068,
 		Version = 3,
+	},
+	[1297] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Zirgorteh the Open-armed [1]",
+		Notes = "Release",
+		Time = 1759900340,
+		Version = 2,
 	},
 	[1303] = 
 	{
@@ -1423,6 +1447,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1748298423,
 		Version = 3,
+	},
+	[2201291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [12]",
+		Notes = "Release",
+		Time = 1759658696,
+		Version = 2,
 	},
 	[2301237] = 
 	{
