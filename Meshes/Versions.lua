@@ -1266,7 +1266,7 @@ local tbl =
 	},
 	[1280] = 
 	{
-		Enabled = true,
+		Enabled = false,
 		Name = "[HM] - Pilgrim's Traverse",
 		Notes = "Inital",
 		Time = 1759967112,
