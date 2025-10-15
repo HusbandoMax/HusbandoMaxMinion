@@ -1301,8 +1301,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Zirgorteh the Open-armed [1]",
 		Notes = "Release",
-		Time = 1760133439,
-		Version = 3,
+		Time = 1760519509,
+		Version = 5,
 	},
 	[1303] = 
 	{
