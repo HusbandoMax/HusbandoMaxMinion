@@ -1266,11 +1266,11 @@ local tbl =
 	},
 	[1280] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Pilgrim's Traverse",
-		Notes = "Inital",
-		Time = 1759967112,
-		Version = 1,
+		Notes = "Release",
+		Time = 1761209158,
+		Version = 2,
 	},
 	[1291] = 
 	{
@@ -1503,6 +1503,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1750569035,
 		Version = 3,
+	},
+	[2501291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [15]",
+		Notes = "Release",
+		Time = 1761190102,
+		Version = 2,
 	},
 	[2601237] = 
 	{
