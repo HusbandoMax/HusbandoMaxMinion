@@ -1,10 +1,10 @@
 local tbl = 
 {
-	Enabled = false,
+	Enabled = true,
 	Name = "[HM] - Pilgrim's Traverse",
 	Notes = "Release",
-	Time = 1761209158,
-	Version = 2,
+	Time = 1761266164,
+	Version = 3,
 }
 
 
