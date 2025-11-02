@@ -1269,8 +1269,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Pilgrim's Traverse",
 		Notes = "Release",
-		Time = 1761266164,
-		Version = 3,
+		Time = 1761722927,
+		Version = 5,
 	},
 	[1291] = 
 	{
@@ -1301,8 +1301,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Zirgorteh the Open-armed [1]",
 		Notes = "Release",
-		Time = 1760831429,
-		Version = 6,
+		Time = 1761343351,
+		Version = 7,
 	},
 	[1303] = 
 	{
@@ -1311,6 +1311,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1759484616,
 		Version = 4,
+	},
+	[1333] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Pilgrim's Traverse [99]",
+		Notes = "Release",
+		Time = 1762081051,
+		Version = 3,
 	},
 	[1001189] = 
 	{
@@ -1519,6 +1527,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1750568626,
 		Version = 3,
+	},
+	[2601291] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Phaenna [16]",
+		Notes = "Release",
+		Time = 1761341290,
+		Version = 2,
 	},
 }
 
