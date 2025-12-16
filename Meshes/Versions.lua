@@ -1029,16 +1029,16 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Urqopacha",
 		Notes = "Release",
-		Time = 1759899721,
-		Version = 7,
+		Time = 1765891948,
+		Version = 8,
 	},
 	[1188] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Kozama'uka",
-		Notes = "Gathering Point Mesh",
-		Time = 1743300022,
-		Version = 13,
+		Notes = "Release",
+		Time = 1765892083,
+		Version = 14,
 	},
 	[1189] = 
 	{
@@ -1052,25 +1052,25 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Shaaloani",
-		Notes = "Tweaks",
-		Time = 1738131463,
-		Version = 9,
+		Notes = "Release",
+		Time = 1765892335,
+		Version = 10,
 	},
 	[1191] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Heritage Found",
 		Notes = "Release",
-		Time = 1725756508,
-		Version = 4,
+		Time = 1765892566,
+		Version = 5,
 	},
 	[1192] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Living Memory",
 		Notes = "Release",
-		Time = 1755160145,
-		Version = 8,
+		Time = 1765893118,
+		Version = 9,
 	},
 	[1193] = 
 	{
@@ -1311,6 +1311,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1759484616,
 		Version = 4,
+	},
+	[1314] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Mistwake",
+		Notes = "Inital",
+		Time = 1765889247,
+		Version = 1,
 	},
 	[1333] = 
 	{

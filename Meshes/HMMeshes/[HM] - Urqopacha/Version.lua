@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Urqopacha",
 	Notes = "Release",
-	Time = 1759899721,
-	Version = 7,
+	Time = 1765891948,
+	Version = 8,
 }
 
 
