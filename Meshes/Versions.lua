@@ -1316,9 +1316,25 @@ local tbl =
 	{
 		Enabled = false,
 		Name = "[HM] - Mistwake",
-		Notes = "Inital",
-		Time = 1765889247,
-		Version = 1,
+		Notes = "Release",
+		Time = 1766069565,
+		Version = 2,
+	},
+	[1330] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Dzemael Darkhold",
+		Notes = "Release",
+		Time = 1766069568,
+		Version = 2,
+	},
+	[1331] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Aurum Vale v2",
+		Notes = "Release",
+		Time = 1766047642,
+		Version = 2,
 	},
 	[1333] = 
 	{
