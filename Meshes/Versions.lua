@@ -1314,7 +1314,7 @@ local tbl =
 	},
 	[1314] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Mistwake",
 		Notes = "Release",
 		Time = 1766069565,
