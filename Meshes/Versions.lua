@@ -1312,12 +1312,28 @@ local tbl =
 		Time = 1759484616,
 		Version = 4,
 	},
+	[1313] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Worqor Chirteh",
+		Notes = "Inital",
+		Time = 1766191735,
+		Version = 1,
+	},
 	[1314] = 
 	{
 		Enabled = true,
 		Name = "[HM] - Mistwake",
 		Notes = "Release",
 		Time = 1766069565,
+		Version = 2,
+	},
+	[1328] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - Where We Call Home",
+		Notes = "Release",
+		Time = 1766295310,
 		Version = 2,
 	},
 	[1330] = 
