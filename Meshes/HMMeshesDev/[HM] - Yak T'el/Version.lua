@@ -2,9 +2,9 @@ local tbl =
 {
 	Enabled = true,
 	Name = "[HM] - Yak T'el",
-	Notes = "Tweaks",
-	Time = 1737568172,
-	Version = 8,
+	Notes = "Release",
+	Time = 1767576952,
+	Version = 9,
 }
 
 

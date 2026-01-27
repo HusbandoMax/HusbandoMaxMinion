@@ -72,6 +72,14 @@ local tbl =
 		Time = 1759791636,
 		Version = 2,
 	},
+	[160] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Pharos Sirius",
+		Notes = "Release",
+		Time = 1766988087,
+		Version = 2,
+	},
 	[164] = 
 	{
 		Enabled = true,
@@ -142,6 +150,38 @@ local tbl =
 		Name = "[HM] - Porta Decumana",
 		Notes = "Release",
 		Time = 1759575886,
+		Version = 2,
+	},
+	[349] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Copperbell Mines",
+		Notes = "Release",
+		Time = 1766988093,
+		Version = 2,
+	},
+	[350] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Haukke Manor (Hard)",
+		Notes = "Release",
+		Time = 1767157353,
+		Version = 2,
+	},
+	[360] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Halatali (Hard)",
+		Notes = "Release",
+		Time = 1769516574,
+		Version = 2,
+	},
+	[363] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Lost City of Amdapor",
+		Notes = "Release",
+		Time = 1767159471,
 		Version = 2,
 	},
 	[364] = 
@@ -1044,9 +1084,9 @@ local tbl =
 	{
 		Enabled = true,
 		Name = "[HM] - Yak T'el",
-		Notes = "Tweaks",
-		Time = 1737568172,
-		Version = 8,
+		Notes = "Release",
+		Time = 1767576952,
+		Version = 9,
 	},
 	[1190] = 
 	{
@@ -1205,8 +1245,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - South Horn",
 		Notes = "Release",
-		Time = 1755517391,
-		Version = 5,
+		Time = 1767841005,
+		Version = 6,
 	},
 	[1265] = 
 	{
@@ -1312,6 +1352,14 @@ local tbl =
 		Time = 1759484616,
 		Version = 4,
 	},
+	[1310] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Oizys",
+		Notes = "Inital",
+		Time = 1769511295,
+		Version = 1,
+	},
 	[1313] = 
 	{
 		Enabled = false,
@@ -1373,8 +1421,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - South Horn - Scouting",
 		Notes = "Release",
-		Time = 1758178590,
-		Version = 2,
+		Time = 1769143905,
+		Version = 3,
 	},
 	[1100732] = 
 	{
@@ -1384,12 +1432,28 @@ local tbl =
 		Time = 1741908352,
 		Version = 2,
 	},
+	[1101310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [1]",
+		Notes = "Release",
+		Time = 1769516564,
+		Version = 2,
+	},
 	[1200732] = 
 	{
 		Enabled = false,
 		Name = "[HM] - Eureka Anemos 2",
 		Notes = "Release",
 		Time = 1741908354,
+		Version = 2,
+	},
+	[1201310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [2]",
+		Notes = "Release",
+		Time = 1769516568,
 		Version = 2,
 	},
 	[1301237] = 
