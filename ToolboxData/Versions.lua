@@ -1,6 +1,6 @@
 local tbl =
 {
-    Version = 254,
+    Version = 255,
 }
 
 return tbl
