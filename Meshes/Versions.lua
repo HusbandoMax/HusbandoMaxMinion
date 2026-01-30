@@ -1488,6 +1488,14 @@ local tbl =
 		Time = 1757555568,
 		Version = 3,
 	},
+	[1401310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [4]",
+		Notes = "Release",
+		Time = 1769734694,
+		Version = 2,
+	},
 	[1501291] = 
 	{
 		Enabled = true,
