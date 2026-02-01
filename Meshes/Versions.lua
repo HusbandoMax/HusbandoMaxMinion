@@ -1520,6 +1520,14 @@ local tbl =
 		Time = 1757835605,
 		Version = 3,
 	},
+	[1601310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [6]",
+		Notes = "Release",
+		Time = 1769901432,
+		Version = 2,
+	},
 	[1701291] = 
 	{
 		Enabled = true,
@@ -1527,6 +1535,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1758369939,
 		Version = 3,
+	},
+	[1701310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [7]",
+		Notes = "Release",
+		Time = 1769901434,
+		Version = 2,
 	},
 	[1801291] = 
 	{
