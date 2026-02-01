@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - Oizys [5]",
 	Notes = "Release",
-	Time = 1769857141,
-	Version = 2,
+	Time = 1769906978,
+	Version = 3,
 }
 
 
