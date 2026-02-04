@@ -1541,8 +1541,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - Oizys [7]",
 		Notes = "Release",
-		Time = 1769906984,
-		Version = 3,
+		Time = 1770163362,
+		Version = 4,
 	},
 	[1801291] = 
 	{
@@ -1550,6 +1550,14 @@ local tbl =
 		Name = "[HM] - Phaenna [8]",
 		Notes = "Release",
 		Time = 1757931565,
+		Version = 3,
+	},
+	[1801310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [8]",
+		Notes = "Release",
+		Time = 1770163366,
 		Version = 3,
 	},
 	[1901237] = 
@@ -1567,6 +1575,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1758425087,
 		Version = 2,
+	},
+	[1901310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [9]",
+		Notes = "Release",
+		Time = 1770163368,
+		Version = 3,
 	},
 	[2001237] = 
 	{
