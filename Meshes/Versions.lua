@@ -1648,6 +1648,14 @@ local tbl =
 		Time = 1759658696,
 		Version = 2,
 	},
+	[2201310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [12]",
+		Notes = "Release",
+		Time = 1770600199,
+		Version = 2,
+	},
 	[2301237] = 
 	{
 		Enabled = true,
@@ -1662,6 +1670,14 @@ local tbl =
 		Name = "[HM] - Phaenna [13]",
 		Notes = "Release",
 		Time = 1760130586,
+		Version = 2,
+	},
+	[2301310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [13]",
+		Notes = "Release",
+		Time = 1770775145,
 		Version = 2,
 	},
 	[2401237] = 
@@ -1680,6 +1696,14 @@ local tbl =
 		Time = 1760605389,
 		Version = 2,
 	},
+	[2401310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [14]",
+		Notes = "Release",
+		Time = 1771057281,
+		Version = 2,
+	},
 	[2501237] = 
 	{
 		Enabled = true,
@@ -1694,6 +1718,14 @@ local tbl =
 		Name = "[HM] - Phaenna [15]",
 		Notes = "Release",
 		Time = 1761190102,
+		Version = 2,
+	},
+	[2501310] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Oizys [15]",
+		Notes = "Release",
+		Time = 1771057283,
 		Version = 2,
 	},
 	[2601237] = 
