@@ -1,11 +1,11 @@
 {
-  "dbVersion": 259,
-  "generatedAtUtc": "2026-02-07T20:39:56Z",
+  "dbVersion": 260,
+  "generatedAtUtc": "2026-03-03T07:27:56Z",
   "regions": [
     {
       "id": 1,
       "name": "NA/EU",
-      "gameVersion": "7.41"
+      "gameVersion": "7.45"
     },
     {
       "id": 2,
