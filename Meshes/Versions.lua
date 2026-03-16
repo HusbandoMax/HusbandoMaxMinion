@@ -1378,11 +1378,11 @@ local tbl =
 	},
 	[1315] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Merchant's Tale",
-		Notes = "Inital",
-		Time = 1772540980,
-		Version = 1,
+		Notes = "Release",
+		Time = 1773614943,
+		Version = 2,
 	},
 	[1328] = 
 	{
