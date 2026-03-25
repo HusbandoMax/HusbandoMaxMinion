@@ -1386,11 +1386,11 @@ local tbl =
 	},
 	[1316] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - The Merchant's Tale (Advanced)",
-		Notes = "Inital",
-		Time = 1773701173,
-		Version = 1,
+		Notes = "Release",
+		Time = 1774402508,
+		Version = 3,
 	},
 	[1328] = 
 	{
@@ -1423,6 +1423,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1762424621,
 		Version = 4,
+	},
+	[1336] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Lilyswim",
+		Notes = "Release",
+		Time = 1774402496,
+		Version = 2,
 	},
 	[1001189] = 
 	{
