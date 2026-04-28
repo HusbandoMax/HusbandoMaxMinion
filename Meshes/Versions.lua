@@ -1432,6 +1432,14 @@ local tbl =
 		Time = 1774402496,
 		Version = 2,
 	},
+	[1345] = 
+	{
+		Enabled = true,
+		Name = "[HM] - The Clyteum",
+		Notes = "Release",
+		Time = 1777387528,
+		Version = 2,
+	},
 	[1001189] = 
 	{
 		Enabled = true,
