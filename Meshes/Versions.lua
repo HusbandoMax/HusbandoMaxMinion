@@ -1440,6 +1440,14 @@ local tbl =
 		Time = 1777387528,
 		Version = 2,
 	},
+	[1367] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Shisui of the Violet Tides v2",
+		Notes = "Release",
+		Time = 1777514757,
+		Version = 2,
+	},
 	[1001189] = 
 	{
 		Enabled = true,
