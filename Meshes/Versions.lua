@@ -1440,6 +1440,14 @@ local tbl =
 		Time = 1777387528,
 		Version = 2,
 	},
+	[1366] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Dusk Vigil",
+		Notes = "Release",
+		Time = 1777955026,
+		Version = 2,
+	},
 	[1367] = 
 	{
 		Enabled = true,
