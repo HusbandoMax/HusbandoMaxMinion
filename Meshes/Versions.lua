@@ -808,6 +808,14 @@ local tbl =
 		Time = 1672238042,
 		Version = 3,
 	},
+	[1052] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - The Porta Decumana",
+		Notes = "Release",
+		Time = 1779963727,
+		Version = 2,
+	},
 	[1055] = 
 	{
 		Enabled = true,
@@ -1245,8 +1253,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - South Horn",
 		Notes = "Release",
-		Time = 1767841005,
-		Version = 6,
+		Time = 1779963752,
+		Version = 7,
 	},
 	[1265] = 
 	{
