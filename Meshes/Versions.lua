@@ -848,6 +848,14 @@ local tbl =
 		Time = 1672238047,
 		Version = 3,
 	},
+	[1068] = 
+	{
+		Enabled = true,
+		Name = "[HM][Q] - Steps of Faith",
+		Notes = "Release",
+		Time = 1780281036,
+		Version = 2,
+	},
 	[1069] = 
 	{
 		Enabled = true,
