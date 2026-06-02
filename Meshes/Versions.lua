@@ -1408,6 +1408,14 @@ local tbl =
 		Time = 1774402508,
 		Version = 3,
 	},
+	[1319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia",
+		Notes = "Inital",
+		Time = 1780397879,
+		Version = 1,
+	},
 	[1328] = 
 	{
 		Enabled = true,
