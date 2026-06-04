@@ -1512,6 +1512,14 @@ local tbl =
 		Time = 1769516564,
 		Version = 2,
 	},
+	[1101319] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Auxesia [1]",
+		Notes = "Release",
+		Time = 1780471216,
+		Version = 2,
+	},
 	[1200732] = 
 	{
 		Enabled = false,
@@ -1526,6 +1534,14 @@ local tbl =
 		Name = "[HM] - Oizys [2]",
 		Notes = "Release",
 		Time = 1769516568,
+		Version = 2,
+	},
+	[1201319] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Auxesia [2]",
+		Notes = "Release",
+		Time = 1780471214,
 		Version = 2,
 	},
 	[1301237] = 
@@ -1552,6 +1568,14 @@ local tbl =
 		Time = 1769691785,
 		Version = 5,
 	},
+	[1301319] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Auxesia [3]",
+		Notes = "Release",
+		Time = 1780497951,
+		Version = 3,
+	},
 	[1401291] = 
 	{
 		Enabled = true,
@@ -1567,6 +1591,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1769777766,
 		Version = 4,
+	},
+	[1401319] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Auxesia [4]",
+		Notes = "Release",
+		Time = 1780527627,
+		Version = 3,
 	},
 	[1501291] = 
 	{
@@ -1584,6 +1616,14 @@ local tbl =
 		Time = 1769906978,
 		Version = 3,
 	},
+	[1501319] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Auxesia [5]",
+		Notes = "Release",
+		Time = 1780531292,
+		Version = 2,
+	},
 	[1601291] = 
 	{
 		Enabled = true,
@@ -1599,6 +1639,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1769906981,
 		Version = 3,
+	},
+	[1601319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [6]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 	[1701291] = 
 	{
@@ -1616,6 +1664,14 @@ local tbl =
 		Time = 1770163362,
 		Version = 4,
 	},
+	[1701319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [7]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
 	[1801291] = 
 	{
 		Enabled = true,
@@ -1631,6 +1687,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1770163366,
 		Version = 3,
+	},
+	[1801319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [8]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 	[1901237] = 
 	{
@@ -1656,6 +1720,14 @@ local tbl =
 		Time = 1770163368,
 		Version = 3,
 	},
+	[1901319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [9]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
 	[2001237] = 
 	{
 		Enabled = true,
@@ -1679,6 +1751,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1770262659,
 		Version = 2,
+	},
+	[2001319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [10]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 	[2101237] = 
 	{
@@ -1704,6 +1784,14 @@ local tbl =
 		Time = 1770432507,
 		Version = 2,
 	},
+	[2101319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [11]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
 	[2201237] = 
 	{
 		Enabled = true,
@@ -1727,6 +1815,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1770600199,
 		Version = 2,
+	},
+	[2201319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [12]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 	[2301237] = 
 	{
@@ -1752,6 +1848,14 @@ local tbl =
 		Time = 1770775145,
 		Version = 2,
 	},
+	[2301319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [13]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
 	[2401237] = 
 	{
 		Enabled = true,
@@ -1775,6 +1879,14 @@ local tbl =
 		Notes = "Release",
 		Time = 1772498678,
 		Version = 3,
+	},
+	[2401319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [14]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 	[2501237] = 
 	{
@@ -1800,6 +1912,14 @@ local tbl =
 		Time = 1773571203,
 		Version = 6,
 	},
+	[2501319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [15]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
 	[2601237] = 
 	{
 		Enabled = true,
@@ -1815,6 +1935,22 @@ local tbl =
 		Notes = "Release",
 		Time = 1761341290,
 		Version = 2,
+	},
+	[2601319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [16]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
+	},
+	[2701319] = 
+	{
+		Enabled = false,
+		Name = "[HM] - Auxesia [17]",
+		Notes = "Inital",
+		Time = 1780458822,
+		Version = 1,
 	},
 }
 
