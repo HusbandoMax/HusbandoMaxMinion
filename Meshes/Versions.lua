@@ -1690,11 +1690,11 @@ local tbl =
 	},
 	[1801319] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Auxesia [8]",
-		Notes = "Inital",
-		Time = 1780458822,
-		Version = 1,
+		Notes = "Release",
+		Time = 1780741492,
+		Version = 2,
 	},
 	[1901237] = 
 	{
@@ -1722,11 +1722,11 @@ local tbl =
 	},
 	[1901319] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Auxesia [9]",
-		Notes = "Inital",
-		Time = 1780458822,
-		Version = 1,
+		Notes = "Release",
+		Time = 1780824480,
+		Version = 2,
 	},
 	[2001237] = 
 	{
@@ -1754,11 +1754,11 @@ local tbl =
 	},
 	[2001319] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Auxesia [10]",
-		Notes = "Inital",
-		Time = 1780458822,
-		Version = 1,
+		Notes = "Release",
+		Time = 1780826421,
+		Version = 3,
 	},
 	[2101237] = 
 	{
