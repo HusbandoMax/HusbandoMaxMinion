@@ -1786,11 +1786,11 @@ local tbl =
 	},
 	[2101319] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Auxesia [11]",
-		Notes = "Inital",
-		Time = 1780458822,
-		Version = 1,
+		Notes = "Release",
+		Time = 1780892333,
+		Version = 2,
 	},
 	[2201237] = 
 	{
