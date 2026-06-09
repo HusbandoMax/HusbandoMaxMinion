@@ -1818,11 +1818,11 @@ local tbl =
 	},
 	[2201319] = 
 	{
-		Enabled = false,
+		Enabled = true,
 		Name = "[HM] - Auxesia [12]",
-		Notes = "Inital",
-		Time = 1780458822,
-		Version = 1,
+		Notes = "Release",
+		Time = 1780985973,
+		Version = 2,
 	},
 	[2301237] = 
 	{
