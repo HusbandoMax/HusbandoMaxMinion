@@ -1472,6 +1472,14 @@ local tbl =
 		Time = 1777387528,
 		Version = 2,
 	},
+	[1346] = 
+	{
+		Enabled = false,
+		Name = "[HM] - North Horn",
+		Notes = "Pass 1",
+		Time = 1785890128,
+		Version = 2,
+	},
 	[1366] = 
 	{
 		Enabled = true,
