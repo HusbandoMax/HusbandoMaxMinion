@@ -1477,8 +1477,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - North Horn",
 		Notes = "Release",
-		Time = 1787981338,
-		Version = 8,
+		Time = 1788352809,
+		Version = 10,
 	},
 	[1366] = 
 	{
@@ -1517,8 +1517,8 @@ local tbl =
 		Enabled = true,
 		Name = "[HM] - North Horn - Scouting",
 		Notes = "Release",
-		Time = 1787981357,
-		Version = 4,
+		Time = 1788352816,
+		Version = 6,
 	},
 	[1100732] = 
 	{

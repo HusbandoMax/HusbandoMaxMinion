@@ -3,8 +3,8 @@ local tbl =
 	Enabled = true,
 	Name = "[HM] - North Horn - Scouting",
 	Notes = "Release",
-	Time = 1787981357,
-	Version = 4,
+	Time = 1788352816,
+	Version = 6,
 }
 
 
