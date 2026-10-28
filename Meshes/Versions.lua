@@ -1480,6 +1480,14 @@ local tbl =
 		Time = 1788352809,
 		Version = 10,
 	},
+	[1360] = 
+	{
+		Enabled = true,
+		Name = "[HM] - Keybound Square",
+		Notes = "Release",
+		Time = 1793182973,
+		Version = 2,
+	},
 	[1366] = 
 	{
 		Enabled = true,
