@@ -3,3 +3,11 @@ ToolboxData/HusbandoMaxData.HM-shm
 ToolboxData/HusbandoMaxData.HM-wal
 ToolboxData/Compress.bat
 .stfolder/
+# The dev quest rows. Built here, 27MB, and it used to be committed and
+# pushed on every change so the few people with the Quest Builder could be
+# handed a copy. They fetch them from the server now, and the only copy that
+# is read is the one on the machine serving them, outside any checkout. It is
+# a build output: if it goes missing the build makes it again.
+ToolboxData/HusbandoMaxDataDev.HMDev
+ToolboxData/HusbandoMaxDataDev.HMDev-shm
+ToolboxData/HusbandoMaxDataDev.HMDev-wal
